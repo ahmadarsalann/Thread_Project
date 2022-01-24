@@ -1,0 +1,18 @@
+CPSC 405 - Thread Project
+
+04/11/2021: 7:40pm - 7:49pm
+	Downloaded the files.
+	Uploaded directory to github for partner.
+	Created makefile.
+
+04/12/2021: 7:20pm - 7:34pm
+	Created msgq.c and msgq.h files.
+	Updated makefile.
+
+04/15/2021: 7:00pm - 1:00 am
+	Worked on msgq.c
+
+04/16/2021: 3:00pm - 11:23pm
+	Finished the producer/consumer problem
+	Updating main
+	
